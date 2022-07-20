@@ -1,7 +1,7 @@
 package ms
 
 import (
-	"github.com/golang-module/carbon/v2"
+	"github.com/golang-module/carbon/v3"
 	"gorm.io/gorm"
 	"gorm.io/gorm/clause"
 	"gorm.io/gorm/schema"
